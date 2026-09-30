@@ -31,7 +31,7 @@ I'm currently focused on building my expertise in **DevOps, Cloud Infrastructure
 ### Languages & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,python,bash" />
+<img src="https://skillicons.dev/icons?i=C++,javascript,bash,nodejs,python," />
 </p>
 
 ### Cloud & DevOps
@@ -43,7 +43,7 @@ I'm currently focused on building my expertise in **DevOps, Cloud Infrastructure
 ### Databases & Monitoring
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgresql,redis,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis,prometheus,grafana" />
 </p>
 
 ---
