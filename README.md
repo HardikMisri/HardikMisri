@@ -31,7 +31,7 @@ I'm currently focused on building my expertise in **DevOps, Cloud Infrastructure
 ### Languages & Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=C++,javascript,bash,nodejs,python," />
+<img src="https://skillicons.dev/icons?i=linux,python,javascript,bash,nodejs" />
 </p>
 
 ### Cloud & DevOps
